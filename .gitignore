@@ -1,0 +1,20 @@
+#################
+## TeXnicCenter
+#################
+
+## Ignore TeXnicCenter temporary files, build results, and
+## project files
+
+# Project files
+*.tcp
+*.tps
+
+# Build results
+*.aux
+*.bbl
+*.blg
+*.lof
+*.log
+*.lot
+*.pdf
+*.toc
